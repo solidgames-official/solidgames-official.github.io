@@ -2,6 +2,7 @@
 # App-ads.txt for PetVenture: Pet Clinic Tycoon (com.solidgames.pet.clinic.idle.tycoon)
 # Domain: solidgames-official.github.io
 # Managed via CAS.ai (CleverAdsSolutions)
+# https://solidgames-official.github.io/app-ads.txt
 # ===================================================================
 
 # Cтроки из оригинального файла CAS.ai:
